@@ -14,43 +14,30 @@
 
 ---
 
-## 🛠️ Tech Stack  
+### 🛠️ Tech Stack  
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
+<p align="center">  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>  
 </p>
 
----
-
 ## 📌 Pinned Projects
-- 🌟 [Portfolio Website](https://github.com/your-username/portfolio) – Personal portfolio built with Next.js + Tailwind  
-- 📝 [Blog Platform](https://github.com/your-username/blog-app) – Full-stack app for blogs with authentication  
-- 🧩 [CP Templates](https://github.com/your-username/cp-templates) – My personal library of algorithms & data structures  
-- 🎮 [Hackathon Project](https://github.com/your-username/hackathon-project) – Built in 24 hours with team collaboration  
+- 🌟 [Portfolio Website](https://github.com/your-username/portfolio)   
 
 ---
 
-## 📊 Competitive Programming
-- 🥇 Solved **500+ problems** on LeetCode / Codeforces / CodeChef  
-- 📈 [LeetCode Profile](https://leetcode.com/your-id)  
-- 🏆 Highlights: [add ranks, contests, or achievements]  
-
----
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-id)  
-- 🐙 [GitHub](https://github.com/your-username)  
-- ✉️ [Email Me](mailto:your-email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sheemamd/)  
 
   ## 📊 GitHub Stats  
 
