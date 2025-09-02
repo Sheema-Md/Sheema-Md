@@ -14,11 +14,20 @@
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** C++, JavaScript, Python, Java  
-**Web Development:** React, Next.js, Tailwind, Node.js, Express, Firebase  
-**Tools & Platforms:** Git, GitHub, VS Code, Docker, Linux  
-**Other:** Problem Solving, Leadership, Open Source  
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50px" alt="Firebase"/>
+</p>
 
 ---
 
@@ -40,4 +49,16 @@
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/your-id)  
 - 🐙 [GitHub](https://github.com/your-username)  
-- ✉️ [Email Me](mailto:your-email@example.com)  
+- ✉️ [Email Me](mailto:your-email@example.com)
+
+  ## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sheema-Md&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheema-Md&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheema-Md&theme=tokyonight" height="180em"/>
+</p>
+
