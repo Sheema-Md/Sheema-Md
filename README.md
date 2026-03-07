@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sheema Mohammed 
 
-💻 **Web Developer | Competitive Programmer | Tech Enthusiast | GSSOC 2025 Contributor**  
+💻 **CP LEAD @GDGOC NECN |Web Developer | Competitive Programmer | Tech Enthusiast | GSSOC 2025 Contributor**  
 
 🌟 Passionate about building impactful projects, solving real-world problems with code, and contributing to tech communities.  
 
@@ -31,6 +31,8 @@
 </p>
 
 ## 📌 Pinned Projects
+- 🌟 [Multi-Souce Sentiment Analyzer](https://sheema-md.github.io/Multi-Source-Sentimental-Analyzer/)
+- 🌟 [Parkinsons-Prediction](https://sheema-md.github.io/Parkinsons-Prediction/)
 - 🌟 [Portfolio](https://sheema-md.github.io/Sheema_Portfolio/)  
 
 ---
