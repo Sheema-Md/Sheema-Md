@@ -1,54 +1,106 @@
-# Hi there 👋, I'm Sheema Mohammed 
+<div align="center">
 
-💻 **CP LEAD @GDGOC NECN |Web Developer | Competitive Programmer | Tech Enthusiast | GSSOC 2025 Contributor**  
+# 👋 Hi, I'm Sheema Mohammed
 
-🌟 Passionate about building impactful projects, solving real-world problems with code, and contributing to tech communities.  
+### Computer Science Student · Software Developer 
 
----
+**Building practical software · Exploring AI · Solving problems**
 
-## 🚀 About Me
-- 🌐 Skilled in **Web Development** (React.js)  
-- 🧩 Competitive Programmer (Java | Data Structures & Algorithms | Problem Solving)  
-- 🤝 Love mentoring peers, collaborating on projects, and organizing community events  
-- 🎯 Goal: To lead and contribute to projects that bring value to the developer community  
+</div>
 
 ---
 
-### 🛠️ Tech Stack  
+## 👩‍💻 About
 
-<p align="center">  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>  
-</p>
+I'm a Computer Science student interested in **software development, backend engineering, competitive programming, and AI/GenAI**.
 
-## 📌 Pinned Projects
-- 🌟 [Multi-Souce Sentiment Analyzer](https://sheema-md.github.io/Multi-Source-Sentimental-Analyzer/)
-- 🌟 [Parkinsons-Prediction](https://sheema-md.github.io/Parkinsons-Prediction/)
-- 🌟 [Portfolio](https://sheema-md.github.io/Sheema_Portfolio/)  
+Currently, I work on full-stack and backend projects while strengthening my **DSA and problem-solving skills**. I'm also a **Competitive Programming Lead @ GDG On-Campus NECN** and an **Open Source Contributor**.
 
 ---
 
+## 🧰 Technologies
 
-## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/sheemamd/)  
+<div align="center">
 
-  ## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sheema-Md&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheema-Md&layout=compact&theme=tokyonight" height="180em"/>
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,c" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheema-Md&theme=tokyonight" height="180em"/>
+### Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,flask" />
 </p>
 
+### Databases & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,vscode" />
+</p>
+
+### AI / GenAI
+
+`Generative AI` · `Gemini API` · `RAG` · `AI Agents`
+
+</div>
+
+---
+
+## 🚀 What I'm Currently Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Software Development
+Building full-stack and backend applications while improving my understanding of APIs, databases, and application architecture.
+
+</td>
+<td width="50%">
+
+### 🧩 Problem Solving
+Practicing **Data Structures & Algorithms** and competitive programming with Java.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 AI / GenAI
+Exploring **Generative AI, RAG, Gemini API, and AI Agents** through hands-on projects.
+
+</td>
+<td width="50%">
+
+### 🌱 Open Source
+Learning through collaborative development and contributing to open-source projects.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sheema-Md&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheema-Md&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Sheema-Md&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting!
+
+*Always learning. Always building.*
+
+</div>
